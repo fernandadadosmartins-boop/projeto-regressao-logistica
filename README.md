@@ -67,4 +67,4 @@ jupyter notebook projeto-de-regressao-logistica.ipynb
 
 Estou em transição de carreira para a área de Dados e este projeto faz parte do meu portfólio de aprendizado prático em Machine Learning.
 
-Conecte-se comigo no [LinkedIn]([https://www.linkedin.com/in/fernanda-carvalho-martins/])!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/fernanda-carvalho-martins/)!
